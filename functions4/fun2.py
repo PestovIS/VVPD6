@@ -7,3 +7,5 @@ def to_gray(color):
     blue = int(color[1:3], 16) - int(color[-2:], 16)
 
     return red, green, blue
+
+print(to_gray('#F1AAB5'))
