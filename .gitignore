@@ -1,0 +1,7 @@
+/__pycache__
+/.pytest_cache
+/.idea
+/functions4/.pytest_cache
+/functions4/__pycache__
+/.coverage
+/functions4/.coverage
